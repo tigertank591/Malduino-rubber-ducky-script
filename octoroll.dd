@@ -1,0 +1,69 @@
+REM Right so this script just rick rolls ppl. 
+REM It doesn't use run or cmd so it works on restricted computers with chrome installed.
+REM Written by Tigertank5911
+REM Purpose: Prank :P
+
+DELAY 800
+GUI
+DELAY 1000
+STRING chrome 
+DELAY 1000
+ENTER
+ENTER
+DELAY 3000
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ENTER
+
+REM Stage one done
+
+REM opens notepad
+GUI
+DELAY 500
+STRING Notepad
+DELAY 500
+ENTER
+DELAY 500
+
+REM pastes the text
+STRING                        ___
+ENTER
+STRING                     .-'   `'.
+ENTER
+STRING                    /         \
+ENTER
+STRING                    |         ;
+ENTER
+STRING                    |         |   
+ENTER
+STRING        ___.--,
+ENTER
+STRING           _.._     |0) ~ (0) |    _.---'`__.-( (_.
+ENTER
+STRING    __.--'`_.. '.__.\    '--. \_.-' ,.--'`     `""`
+ENTER
+STRING   ( ,.--'`   ',__ /./;   ;, '.__.'`    __
+ENTER
+STRING   _`) )  .---.__.' / |   |\   \__..--""  """--.,_
+ENTER
+STRING  `---' .'.''-._.-'`_./  /\ '.  \ _.-~~~````~~~-._`-.__.'
+ENTER
+STRING        | |  .' _.-' |  |  \  \  '.               `~---`
+ENTER
+STRING         \ \/ .'     \  \   '. '-._)
+ENTER
+STRING          \/ /        \  \    `=.__`~-.
+ENTER
+STRING          / /\         `) )    / / `"".`\
+ENTER
+STRING    , _.-'.'\ \        / /    ( (     / /
+ENTER
+STRING     `--~`   ) )    .-'.'      '.'.  | (
+ENTER
+STRING            (/`    ( (`          ) )  '-;
+ENTER
+STRING             `      '-;         (-'
+ENTER
+ENTER
+STRING  	get octo (t)rolled :P
+
+REM Finished
